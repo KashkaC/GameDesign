@@ -1,4 +1,4 @@
-![Loading game](https://github.com/KashkaC/GameDesign/master/images/loadgame.gif)
+![Loading game](https://github.com/KashkaC/GameDesign/tree/master/images/loadgame.gif)
 ![paste code](https://github.com/KashkaC/GameDesign/blob/master/images/pastecode.gif)
 ![splore](https://github.com/KashkaC/GameDesign/blob/master/images/splore.gif)
-![screenshot](https://github.com/KashkaC/GameDesign/images/cart%20folder.png)
+![screenshot](https://github.com/KashkaC/GameDesign/blob/master/images/cart%20folder.png)
